@@ -24,6 +24,8 @@ body{
     justify-content: center;
     width: 15vmin;
     height: 15vmin;
+    line-height: 15vmin;
+
 
    
   
@@ -51,6 +53,7 @@ p{
 #msg{
     
     border-radius: 10px;
+    width:50vmin;
     height: 7vmin;
     line-height: 7vmin;
     text-align: center;
